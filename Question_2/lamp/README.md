@@ -33,12 +33,10 @@ The Script will ask for parameters like mysql password , wordpress db user passw
 ## Authors
 
 Kirit Devda - devda_kirit@yahoo.com
+
 Github Profile - https://github.com/kiritdevda
+
 LinkedIn Profile - https://www.linkedin.com/in/kirit-devda-16120384
-
-## Acknowledgments
-
-* https://github.com/teddysun/lamp
 
 ## Activites Performed
 
@@ -46,3 +44,7 @@ LinkedIn Profile - https://www.linkedin.com/in/kirit-devda-16120384
 * made code lean by removing rollback and upgrade part 
 * Removed command line options to install LAMP stack to make installation light weight and easy to run
 * Added wordpress installation module
+
+## Acknowledgments
+
+* https://github.com/teddysun/lamp
